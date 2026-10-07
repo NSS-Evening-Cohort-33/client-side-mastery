@@ -6,4 +6,4 @@ In this chapter, you continue your journey of embedding hidden state into the DO
 
 Watch the following video another example of using data attributes stored in the DOM to make your project interactive.
 
-[<img src="../../book-1-queen-bee/chapters/images/video-play-icon.gif" height="75rem" />](https://watch.screencastify.com/v/bMwSf4OEeaHtua9axA5g)
+[<img src="../../book-1-queen-bee/chapters/images/video-play-icon.gif" height="75rem" />](https://drive.google.com/file/d/1oQKE1nD3ZB2Fh2KAVe0OlDU1yR3XhYz9/view?usp=drive_link)
